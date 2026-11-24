@@ -1,0 +1,154 @@
+SOURCE: Slack #sop-stores attachment "Save The Sale - Endless Aisle SOP & Store Training" (docx, v1.0), posted 2026-01-20 by Amanda Heglund. Phase 2 kiosks were planned for mid-January; training not yet added.
+TOPIC: Save the Sale / Endless Aisle: shipping out-of-stock items from another location in Shopify POS; scripts; All Pro Bonus credit.
+
+SAVE THE SALE
+
+Endless Aisle SOP & Store Training Guide
+
+Brand Initiative: Save the Sale
+
+Purpose: The Save the Sale program empowers our stores to never lose a customer due to inventory limitations. When an item isn’t available in-store, we use Endless Aisle tools to complete the sale, make a family happy, and ensure the store still receives credit toward their All Pro Bonus.
+
+This is not just a process — it’s a mindset.
+
+WHY SAVE THE SALE MATTERS
+
+-   We keep families happy – no disappointment, no “we don’t have it” moments.
+
+-   We protect revenue – every saved sale counts.
+
+-   We reward the store – the sale credits back to the originating store.
+
+-   We build trust – customers see us as problem-solvers, not gatekeepers.
+
+Golden Rule: > If the customer wants it, we find a way to get it to them.
+
+PROGRAM PHASES
+
+PHASE 1: POS-BASED ENDLESS AISLE (LIVE NOW)
+
+Tool: Existing Shopify POS iPads Who: All store associates (Managers lead the way)
+
+PHASE 2: IN-STORE KIOSKS (MID-JANUARY)
+
+Tool: Dedicated Endless Aisle Kiosks Who: Associates + Customer self-guided experience
+
+(Phase 2 training will be added once kiosks are installed.)
+
+ 
+
+PHASE 1 SOP – SAVE THE SALE USING SHOPIFY POS
+
+WHEN TO USE ENDLESS AISLE
+
+Use Save the Sale when: - A size, color, or style is out of stock in-store - The store does not carry that item - Inventory is available at another store or the warehouse
+
+Do NOT say: - “We’re out.” - “We don’t have that.”
+
+Instead say: > “I can save this sale and ship it to you.”
+
+ASSOCIATE RESPONSIBILITIES
+
+-   Own the customer experience
+
+-   Stay with the customer through checkout
+
+-   Confirm shipping details
+
+-   Ensure the order is completed in POS
+
+STEP-BY-STEP: SAVING A SALE IN SHOPIFY POS
+
+1. START THE SALE
+
+-   Open Shopify POS
+
+-   Log in with your staff credentials
+
+-   Add the desired product to the cart
+
+2. IDENTIFY INVENTORY ISSUE
+
+-   If the item is out of stock at your store, do not stop the sale
+
+3. SELECT ALTERNATE FULFILLMENT LOCATION
+
+-   In the cart or order screen, choose Fulfill from another location
+
+-   Select:
+
+    -   Warehouse or
+
+    -   Another store with available inventory
+
+  No store setting changes are required.
+
+4. CONFIRM CUSTOMER DETAILS
+
+-   Verify:
+
+    -   Shipping address
+
+    -   Contact information
+
+    -   Any special notes
+
+5. COMPLETE CHECKOUT
+
+-   Process payment in POS
+
+-   Confirm order completion
+
+-   Reassure the customer: > “Your order is all set — we saved it for you.”
+
+IMPORTANT PERMISSIONS & ACCESS
+
+To use Endless Aisle in POS, staff must: - Have POS access - Have permission to: - View multiple locations - Assign fulfillment locations
+
+Managers should have full permissions by default.
+
+  If access issues arise, notify leadership immediately.
+
+MANAGER RESPONSIBILITIES (CRITICAL)
+
+Managers are the drivers of adoption.
+
+Managers must: - Lead by example — use Save the Sale daily - Coach associates in real-time - Reinforce the bonus credit benefit - Ensure staff never turn customers away due to inventory
+
+Manager Checklist: - [ ] All staff trained - [ ] POS access verified - [ ] Save the Sale language used consistently - [ ] Endless Aisle orders reviewed weekly
+
+CUSTOMER LANGUAGE (USE THIS SCRIPT)
+
+-   “We can ship that directly to your home for free.”
+
+-   “I’ll take care of that for you right now.”
+
+-   “You won’t leave empty-handed today.”
+
+This creates confidence and trust.
+
+ALL PRO BONUS – HOW CREDIT WORKS
+
+-   The sale is credited to YOUR store
+
+-   The associate and store benefit exactly like an in-store sale
+
+-   Saving sales directly impacts bonus performance
+
+  Bottom line: Saving the sale = winning for everyone.
+
+ 
+
+PHASE 2 PREVIEW – IN-STORE KIOSKS (MID-JAN)
+
+Coming Soon: - Dedicated Endless Aisle kiosks in all stores - Faster browsing - Assisted or self-service ordering - Same Save the Sale credit rules apply
+
+Phase 2 training will include: - Kiosk walkthrough - Associate-assisted selling best practices - Customer self-serve guidance
+
+SUCCESS STANDARD
+
+Every associate should be able to confidently say: > “We never lose a sale because of inventory.”
+
+Save the Sale is not optional — it’s how we do business.
+
+End of SOP – Version 1.0

@@ -1,0 +1,64 @@
+SOURCE: Slack #sop-stores attachment "Redo Returns & Exchanges SOP" (PDF), canvas posted 2026-08-18 by Kristin Keys.
+TOPIC: Completing customer returns and exchanges with the Redo tile in POS; return methods; save a sale exchange rule.
+
+Redo Returns & Exchanges SOP
+Purpose
+This SOP outlines the process for completing customer returns and exchanges using the Redo
+system in retail stores.
+
+Step 1: Download the Redo Tile
+   - Ensure the Redo tile/app is downloaded and available within the POS system before
+      beginning any return or exchange.
+   - Confirm the tile is functioning properly prior to assisting customers.
+Step 2: Locate the Customer Order
+ - Begin the return or exchange process by searching for the customer’s:
+         - Order Number
+         - Account Information
+         - Phone Number or Email (if applicable)
+ - Once the customer’s order is located, click the Redo tab.
+ - The Redo tab is located directly underneath where the previous exchange/return option
+    was located.
+
+Step 3: Select Return Details
+ - After opening the Redo tab:
+          - Select the reason for the return/exchange.
+          - Choose the return method requested by the customer.
+ - Available return methods may include:
+          - Exchange
+          - Store Credit
+          - Refund to Original Payment Method
+ - Additional notes or comments may be entered in the notes section at the bottom if
+    needed for documentation purposes.
+
+Step 4: Continue to Return Options
+ - After completing the return details, click Continue.
+ - You will then see the following options:
+          - Shop Now (Exchange)
+          - Store Credit (Gift Card)
+          - Refund to Original Payment Method
+
+Step 5: Completing an Exchange
+ - If processing an exchange:
+           - Select Shop Now.
+           - Search for products near the bottom of the screen or scan items directly into the
+            transaction.
+           - Add the new exchange item(s) to the cart.
+           - For a save a sale, you CANNOT combine in store items with products that are
+            being shipped.
+ - Redo will automatically:
+           - Apply and match eligible discounts used on the original purchase.
+           - Process the exchange adjustment automatically.
+ - Once completed:
+           - The transaction will return to the cart like a normal purchase.
+           - Most even exchanges will finalize as a $0 transaction.
+        IMPORTANT REMINDERS
+
+   -   Always confirm the customer’s selected return method before finalizing.
+   -   Ensure all exchanged items are scanned correctly.
+   -   Add detailed notes whenever additional clarification may be needed.
+   -   Verify the final transaction total before completing the process.
+
+Goal
+Provide a smooth, efficient, and consistent return/exchange experience for all customers while
+properly utilizing the Redo system.
+
