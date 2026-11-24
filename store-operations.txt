@@ -1,0 +1,125 @@
+SOURCE: BL101 Store Holiday Playbook (Holiday 2026), issued October 2026. Written for store managers and assistant store managers. Promotion and event dates are subject to change; OpsCenter has the most current information.
+TOPIC: Store operations: stockroom and sales floor upkeep, daily to-dos, safety and emergency procedures, holiday return policy, gift cards, facilities reminders, staff badges.
+
+=== playbook page 6 ===
+PILLAR 01
+Open, stocked and ready every day of
+
+OPERATIONS | the season.
+PILLAR OWNER: OPERATIONS CAPTAIN
+
+STOCKROOM MAINTENANCE
+During the holiday season merchandise moves quickly. A neat backstock is key to helping every customer
+who walks in.
+
+ DO | DON’T
+Label every box with its contents | Keep units out of packaging and in multiple
+spots
+Keep popular sizes and styles in an easy-to-
+reach location | Block any emergency exit pathways
+Keep emergency exit pathways clear | Put popular sizes in hard-to-reach locations
+Place any hardware separately | Leave boxes in walking paths when done
+with them
+
+Organize the backroom by collection, with everything in size order, to stay efficient during busy times.
+
+SALES FLOOR MAINTENANCE
+The sales floor is expected to be at max capacity all season. Use the Product Report tab on the POS to
+see what has sold, and restock that first.
+
+ DO | DON’T
+Keep a presentable display | Overfill a table or fixture
+Keep the floor clean during downtime | Let unfolded clothes sit
+Use the folding boards for neat folds every | Allow the fitting rooms to fill with product
+time
+Mix collections across multiple fixtures
+Fill in areas based on size demand
+
+Best foot forward. The sales floor is where we need to shine. Guests build baskets more easily when
+it is clean, neat and organized.
+
+BASEBALL LIFESTYLE 101 · STORE HOLIDAY PLAYBOOK 2026 | 06
+
+=== playbook page 7 ===
+PILLAR 01 · CONTINUED
+
+DAILY TO-DOS AND SAFETY
+OPERATIONAL DAILY TO-DOS
+
+OPENING MANAGER | CLOSING MANAGER
+Opening message in the store’s Slack channel | 4PM store update in the retail hourly updates
+chat
+Opening checklist in OpsCenter
+Assigned segments of the Daily Sales Planner
+Daily Sales Planner filled out before opening
+EOD results on the Daily Sales Planner
+12PM store update in the retail hourly updates
+chat | Closing checklist in OpsCenter
+Assigned segments of the Daily Sales Planner | Closing message in the store’s Slack channel
+
+SAFETY AND EMERGENCY PROCEDURES
+CODE ADAM (MISSING CHILD)
+When a child goes missing, make a Code Adam announcement so every employee can begin a discreet search
+right away. Check specific areas of the store, alert security, and contact local authorities if needed.
+
+ACTIVE SHOOTER: RUN, HIDE, FIGHT
+Alert law enforcement with the store location and details, and activate the alarm so employees can start the
+procedure. Guide customers calmly to safe areas or exits.
+
+ RUN | HIDE | FIGHT
+ If a safe exit is available, evacuate | If you cannot evacuate, find a | Last resort only. If confronted
+ immediately. | secure area, lock or barricade | directly, be prepared to defend
+doors and stay silent. | yourself.
+
+After an incident: account for everyone, cooperate with authorities, and debrief and support the team.
+
+NO-CHASE POLICY
+Never physically pursue or detain a suspected shoplifter. Note the person’s appearance, clothing and direction
+of travel, notify security or law enforcement, and alert your manager without escalating.
+
+EMERGENCY PROCEDURES
+Each mall location receives a packet from mall security with all emergency contacts. Download Simon Connect
+for live updates from inside the mall. At a baseball facility, follow the facility’s protocols.
+
+BASEBALL LIFESTYLE 101 · STORE HOLIDAY PLAYBOOK 2026 | 07
+
+=== playbook page 8 ===
+PILLAR 01 · CONTINUED
+
+OPERATIONS REMINDERS
+HOLIDAY RETURN POLICY
+
+NOV 1 – DEC 20
+60 DAYS | Beginning November 1 and through December 20, we extend
+RETURN / EXCHANGE | the return/exchange window to 60 days from purchase to
+WINDOW | allow for holiday gift giving.
+
+Retail follows the same Holiday Return Policy as online.
+
+Review the policy with all team members to support the customer experience.
+
+Gift card reminder. Gift cards can only be issued in increments of $25. No custom amounts.
+Gift receipts. Unfortunately, we cannot issue gift receipts due to Shopify limitations.
+
+FACILITIES REMINDERS GOING INTO THE HOLIDAYS
+Check your lighting. Review your store for lighting needs. If lights
+are out, take a photo, count how many need to be replaced, and
+send both through the retail-store-facilities channel.
+Report with detail. When you report any facility issue in the retail-
+store-facilities channel, include your store location and a detailed
+description of the issue.
+Keep paths clear. Keep all hallways, pathways, aisles and
+emergency exits clear of boxes and debris to avoid potential fines if | Exit clear | Exit blocked
+the Fire Marshal comes in for an inspection.
+After hours or weekends. Submit the issue through the retail-store-facilities channel and contact your manager for the after-hours facilities number. [phone number removed from this file]
+
+STAFF BADGES AND LANYARDS
+Arriving by Nov 16. New staff badges and lanyards will
+arrive in stores by November 16.
+Part of the dress code. Expected to be worn by all
+employees. QR Code takes customers to sign up for VIP
+Loyalty.
+Choose a home for them. Pick one location where badges
+are left at the end of every shift so they do not get lost.
+
+BASEBALL LIFESTYLE 101 · STORE HOLIDAY PLAYBOOK 2026 | 08

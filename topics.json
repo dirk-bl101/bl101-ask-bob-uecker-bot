@@ -1,0 +1,71 @@
+{
+  "topics": [
+    {
+      "id": "bfcm-customer-rules",
+      "title": "BFCM customer rules (pricing window, codes, points, bundles, returns, online sale, shipping, order changes)",
+      "files": ["bfcm-cx-info-sheet.txt"],
+      "keywords": ["price match", "code", "loyalty", "rewards", "points", "bundle", "tee", "return", "exchange", "refund", "online", "ship", "shipping", "restock", "sold out", "hold", "gift card", "cyber monday", "free shipping", "gift box", "vip", "back in stock", "cancel", "address change", "cx"]
+    },
+    {
+      "id": "bfcm-setup",
+      "title": "BFCM store set-up (key dates, signage types, sizes, placement, gift with purchase)",
+      "files": ["bfcm-setup-guide.txt"],
+      "keywords": ["set up", "setup", "set-up", "signage", "sign holder", "window cling", "stanchion", "gwp", "gift with purchase", "wrapping paper", "placement", "banner", "tier", "after close", "sale starts"]
+    },
+    {
+      "id": "signing-youth",
+      "title": "Signing cheat sheet: which discount tier each youth and all-ages style is signed at, by collection",
+      "files": ["signing-cheat-sheet-intro-and-youth.txt"],
+      "keywords": ["sign", "which tier", "what discount", "50%", "40%", "35%", "25%", "exclude", "excluded", "collection", "youth", "hat", "socks", "style", "how much off", "2025", "2026"]
+    },
+    {
+      "id": "signing-adult",
+      "title": "Signing cheat sheet: adult pricing (reference only) and youth vs adult side by side",
+      "files": ["signing-cheat-sheet-adult.txt"],
+      "keywords": ["adult", "adult price", "adult style", "side by side", "youth vs adult", "differ"]
+    },
+    {
+      "id": "holiday-calendar",
+      "title": "Holiday calendar: dates, collection drops, sales and promotions, blackout dates, teammate fun calendar",
+      "files": ["holiday-calendar.txt"],
+      "keywords": ["calendar", "date", "when", "drop", "thanksgiving", "closed", "pre holiday", "101 day", "spirit week", "ugly sweater", "contest", "huddle", "christmas", "bounce back"]
+    },
+    {
+      "id": "store-operations",
+      "title": "Store operations: stockroom, sales floor, daily to-dos, safety and emergency, holiday return policy, gift cards, facilities, badges",
+      "files": ["store-operations.txt"],
+      "keywords": ["stockroom", "backstock", "sales floor", "opening", "closing", "checklist", "opscenter", "code adam", "missing child", "emergency", "shooter", "shoplifter", "no-chase", "safety", "return policy", "60 day", "gift card", "gift receipt", "lighting", "facilities", "fire marshal", "badge", "lanyard", "dress code"]
+    },
+    {
+      "id": "visual-merchandising",
+      "title": "Visual merchandising: windows, new drop cadence, restock and recovery",
+      "files": ["visual-merchandising.txt"],
+      "keywords": ["window", "display", "visual", "drop", "flagship", "restock", "recovery", "fold", "merchandis", "mannequin", "fixture", "set the drop"]
+    },
+    {
+      "id": "marketing-promotions",
+      "title": "Marketing and promotions: promo reminders, discount codes, event dates, promo setup checklist, Google reviews",
+      "files": ["marketing-promotions.txt"],
+      "keywords": ["promo", "promotion", "discount code", "sas20", "appeasement", "google review", "review", "post", "sign holders", "sneak peek", "bounce back", "gift box"]
+    },
+    {
+      "id": "community-events",
+      "title": "Community events: blackout dates and best practices",
+      "files": ["community-events.txt"],
+      "keywords": ["event", "blackout", "community", "league", "coach", "team", "january", "february"]
+    },
+    {
+      "id": "guest-experience",
+      "title": "Guest experience: holiday guest standards, loyalty sign-up, Save A Sale, de-escalation",
+      "files": ["guest-experience.txt"],
+      "keywords": ["greet", "guest", "customer service", "loyalty sign", "save a sale", "endless aisle", "fitting room", "de-escalate", "upset", "angry", "yelling", "complaint", "basket", "outfit"]
+    },
+    {
+      "id": "letters-to-santa",
+      "title": "Letters to Santa station: setup, participation, daily checklist, privacy",
+      "files": ["santa-guide.txt"],
+      "keywords": ["santa", "letter", "mailbox", "wish list", "north pole", "kids letter"]
+    }
+  ],
+  "max_topics_per_question": 2
+}
