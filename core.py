@@ -26,20 +26,36 @@ def load_topics(path=None):
         return json.load(f)
 
 
+def _find_files(wanted, root):
+    """Find each wanted filename under root, wherever GitHub put it. Prefers a
+    manuals/ folder, then the top level, then any subfolder."""
+    found = {}
+    for folder, dirs, files in os.walk(root):
+        dirs[:] = [d for d in dirs if not d.startswith(".") and d != "__pycache__"]
+        for name in files:
+            if name in wanted:
+                path = os.path.join(folder, name)
+                rank = 0 if os.path.basename(folder) == "manuals" else (1 if folder == root else 2)
+                if name not in found or rank < found[name][0]:
+                    found[name] = (rank, path)
+    return {n: p for n, (_, p) in found.items()}
+
+
 def load_manuals(topics_cfg, folder=None):
-    """Return {filename: text} for every file the topics reference that exists."""
-    folder = folder or MANUALS
+    """Return {filename: text} for every file the topics reference."""
+    wanted = {n for t in topics_cfg["topics"] for n in t["files"]}
+    paths = _find_files(wanted, folder or BASE)
     docs = {}
-    for t in topics_cfg["topics"]:
-        for name in t["files"]:
-            p = os.path.join(folder, name)
-            if name not in docs and os.path.isfile(p):
-                with open(p, encoding="utf-8") as f:
-                    docs[name] = f.read()
+    for name, path in paths.items():
+        with open(path, encoding="utf-8") as f:
+            docs[name] = f.read()
     log.info("manuals loaded: %s", sorted(docs))
-    missing = [n for t in topics_cfg["topics"] for n in t["files"] if n not in docs]
+    for name, path in sorted(paths.items()):
+        if os.path.dirname(path) != (folder or MANUALS):
+            log.warning("manual found outside manuals/: %s", os.path.relpath(path, folder or BASE))
+    missing = sorted(wanted - set(docs))
     if missing:
-        log.warning("manuals missing: %s", sorted(set(missing)))
+        log.warning("manuals missing: %s (looked under %s)", missing, folder or BASE)
     return docs
 
 
