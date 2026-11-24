@@ -1,0 +1,13 @@
+SOURCE: Slack #sop-stores canvas "Gift Card Issues: Expired or Inactive", posted 2026-06-30 by Kristin Keys. Applies to: Store Managers, ASMs, Key Holders.
+TOPIC: Gift cards that show as expired or inactive at point of sale.
+
+Purpose: Provide a process for handling gift cards that show as expired or inactive at point of sale.
+
+Steps:
+1. Do not tell the customer the gift card is invalid. Advise them that the team is checking on it.
+2. Collect: the gift card number (photographed or written down) and the customer's phone number or email on file.
+3. Post in #retail-store-cx with: Store, Issue (gift card showing expired / inactive), Gift card number or photo, Customer contact (phone or email).
+4. CX will locate the gift card in Shopify and reinstate it if eligible.
+5. Once reinstated, CX will confirm the current balance. Share the balance with the customer.
+
+After-hours: If CX is unavailable, advise the customer that the team will follow up the next business day and collect their contact info. Post in the channel and tag Dirk Armstrong for awareness.

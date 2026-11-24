@@ -1,0 +1,7 @@
+SOURCE: Slack #sop-stores canvas "Setting Up POS System", posted 2025-11-03 by Eric Saparito. (Two steps in the original are screenshots and are not included here.)
+TOPIC: Setting up the iPad, Shopify Tap and Chip device and scanners for a new store.
+
+1. Gather required items: iPad, Shopify Tap and Chip device, charging port. All items are listed on your purchase sheet for the store opening.
+2. Configure the device: tap "more" on the bottom right, select Connectivity, choose Set Up New Device.
+3. Set up the card reader: tap Card Reader, select Tap and Chip and press the button on the tap and chip device, connect the tap and chip to the iPad via Bluetooth.
+4. Repeat: follow the same process to set up the scanners.

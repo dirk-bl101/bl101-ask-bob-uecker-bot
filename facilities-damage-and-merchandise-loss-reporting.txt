@@ -1,0 +1,11 @@
+SOURCE: Slack #sop-stores canvas "Facilities Damage & Merchandise Loss Reporting". Applies to: Store Managers, ASMs.
+TOPIC: What to do when roof leaks, water damage or other facilities issues damage the store or merchandise.
+
+Purpose: a clear process for documenting and reporting physical damage to the store or merchandise caused by facilities issues (for example roof leaks, water damage).
+1. Safety first. If there is an active leak or structural hazard, move merchandise and associates away from the affected area immediately.
+2. Document the damage. Take photos of all affected areas and damaged merchandise. Count and record the number of damaged items, including style name, size and color.
+3. Notify mall management immediately if a building issue (roof, ceiling, pipes) caused it. Get the name of the mall contact you spoke with.
+4. Post in the facilities channel (#facilities) with: Store; Date/time discovered; Type of damage (roof leak / water damage / other); Merchandise affected (number of items, style details); Mall notified (yes / contact name); Photos.
+5. Contact your District Manager / VP of Retail for next steps on merchandise write-off or reimbursement.
+6. Facilities will coordinate with mall management on the structural repair.
+Notes: do not discard damaged merchandise until authorized. Damaged items may need to be held for insurance or claim documentation.

@@ -1,0 +1,9 @@
+SOURCE: Slack #sop-stores canvas "Retail Store Contest Winner Process", posted 2026-06-01 by Kristin Keys. MANAGER-ONLY. Names specific Customer Service staff.
+TOPIC: Verifying, reporting and rewarding store contest winners.
+
+Purpose: ensure all contest winners are properly verified, communicated and rewarded in a timely and organized manner.
+Step 1: Confirm contest results. Verify your store or associate officially won, double-check metrics (sales, KPIs) against the contest criteria, and confirm with leadership if needed.
+Step 2: Notify Customer Service via Slack. Within 48 hours of contest completion, message BOTH Jessica Hinson and Thalia Dinzeo with: name and date of the contest; type and amount of the prize; full names of all winners; email addresses of all winners. Make sure the information is accurate and complete.
+Step 3: Communicate with winners. Tell the winners in your store that they won; explain what they won and when and how they will receive the prize; recognize them in store.
+Step 4: Confirm completion in the Store Retail Manager group chat with the store name, the contest name, and confirmation that winner details were submitted.
+Step 5: Final recognition. Keep recognizing winners with the team to reinforce performance and drive future participation.

@@ -1,0 +1,11 @@
+SOURCE: Slack #sop-stores canvas "In-Store Fulfillment" (SOP-6, v1.0; template fields left blank in the original).
+TOPIC: Fulfilling online orders from in-store inventory in Shopify (ship or local pickup).
+
+Purpose: steps for fulfilling online orders from in-store inventory using Shopify.
+1. Receive order notification. Shopify notifies you by email or in the Shopify Admin panel. Go to Shopify Admin > Orders.
+2. Review order details. Open the order, confirm the product is available in store, and verify customer notes, shipping method (pickup or delivery) and payment status.
+3. Pick and pack. Retrieve the items from the shelves, inspect for quality or damage, and pack with appropriate material (include the receipt if required).
+4. Mark as fulfilled. Click "Fulfill Item(s)". If shipping: enter the tracking number (if applicable) and select the carrier. If local pickup: click "Ready for Pickup" once packed and notify the customer with the "Send notification" button.
+5. Finalize and store. Place the packed order in the designated fulfillment area, labeled by order number. Update inventory if needed (Shopify usually does this automatically).
+6. Handover or pickup. For pickup, ask the customer for the order confirmation or ID, hand over the package and mark it "Picked Up" in Shopify. For delivery, give the package to the delivery personnel and confirm dispatch.
+7. Post-fulfillment. Archive the order in Shopify once fulfilled and monitor for customer feedback or issues.

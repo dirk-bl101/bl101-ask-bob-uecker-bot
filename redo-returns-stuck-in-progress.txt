@@ -1,0 +1,20 @@
+SOURCE: Slack #sop-stores canvas "Redo Returns Stuck 'In Progress'", posted 2026-06-30 by Kristin Keys. Applies to: Store Managers, ASMs, Key Holders.
+TOPIC: A Redo return shows "return in progress" and cannot be completed or reset in store.
+
+Purpose: Establish a clear escalation process when a Redo return shows "return in progress" and cannot be completed or reset in store.
+
+When this happens:
+- An associate began a return in Redo but backed out before completing it.
+- A return shows "return in progress" and the customer's order does not reflect the exchange.
+- A sequential exchange (return from a previous exchange) does not appear in the customer's order history.
+
+Steps:
+1. Do not attempt to process the return again. This can create duplicate records.
+2. Note the order number(s) involved and what action needs to be taken (reset, complete, or locate a missing exchange).
+3. Post in #retail-store-cx with: Store, Order #, Issue (return stuck "in progress" or exchange not appearing), What needs to happen (for example reset the return, confirm the refund was issued, process the exchange manually), Screenshot of the Redo screen.
+4. CX will review and either reset the return, process it manually, or instruct you on next steps.
+5. If the customer is physically present, let them know the team is resolving it and offer to follow up via email or phone.
+
+Notes:
+- Once a credit card refund has been processed, it cannot be reversed. Always verify before completing.
+- If a return is not appearing after a CX reset, back out of Redo completely and re-enter the order number.

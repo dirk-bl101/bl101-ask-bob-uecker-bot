@@ -1,0 +1,13 @@
+SOURCE: Slack #sop-stores canvas "Store Customization".
+TOPIC: In-store customization (patches), pricing, heat press and cap press use, safety and maintenance.
+
+Scope: staff operating in-store customization equipment (garment heat presses and Hotronix Auto Open cap presses).
+Customer transaction policy: clients select patches and pay in Shopify POS before installation begins. Staff must verify the purchase in Shopify before customizing.
+Patch pricing: Letters/Numbers $10 each; Letters/Numbers (2) $15; Letters/Numbers (3) $20; Fashion Patches $30 each.
+Safety: risks are burns, pinch/pressure injury and electrical hazards. Post signage and wear heat-resistant gloves. Keep hands clear of the platen. Use only dedicated 10-amp circuits with no other high-voltage loads. Do not operate with damaged cords; only qualified service personnel repair them. Let the platen cool before storage. Put the press on a sturdy stand (at least 36"L x 24"W x 29"H). Keep the work area clean and clear.
+Electrical: grounded dedicated circuits, surge protection, tidy secured cables, heavy-duty extension cords (12-20 amp).
+Fire and regulatory: a fire extinguisher at each station; written Hazard Communication Plan on file; train staff on PPE and emergencies; follow OSHA 29 CFR 1910.
+Garment heat press: power on and heat to set temperature (176-430 F); adjust time and pressure for the material; load garment, position patch, lower platen; the press auto-releases after the cycle; remove the garment after the platen cools slightly.
+Cap press: connect to a grounded 10-amp circuit; power on and set temperature (176-430 F); set time and pressure (0-9 scale); position cap and design and lock the cap hold-down lever; lower the handle to start the timer; the press auto-opens when the timer ends; let the platen cool slightly before handling. Gas shocks release the platen automatically.
+Maintenance: daily wipe platens, empty scraps, power down and unplug. Weekly inspect cords and plugs and clean vent filters. Monthly check extinguishers and PPE, calibrate press temperatures, inspect the cap press hold-down and platen.
+Emergencies: burns, give first aid and report; fire, use the extinguisher and evacuate; equipment malfunction, stop immediately and notify management.

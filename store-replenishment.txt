@@ -1,0 +1,20 @@
+SOURCE: Slack #sop-stores canvas "Store replenishment" (Standard Operating Procedure), posted 2025-11-03 by Eric Saparito. Includes a Micro Location SOP update.
+TOPIC: Replenishment training, daily and weekly replenishment, request sheet.
+
+Replenishment training
+- Review the Replenishment SOP with new hires.
+- Walk through backstock organization and the labeling system.
+- Demonstrate how to: pull replenishments for the floor (by size or sell-through); log and communicate when key items are low or out of stock (create a request sheet while going through the store); if a customer asks for a product we do not have in stock, add it to the request sheet as soon as possible (the DM or DOR will share the restock sheet and request restock units from the warehouse if available); use digital tools (shared sheets, Slack channels) to track restocks.
+- Manager's note: follow up during the first 3 days to make sure new hires can locate and replenish key items confidently.
+
+Replenishment, daily (before open and mid-day)
+- Check the floor for missing sizes in top sellers and empty or light-facing displays. Write down a list of what has sold through before going to backstock.
+- Pull stock from storage containers using the replenishment priority list (top SKUs, categories, promo items).
+- Record all low or out-of-stock items on the Request Sheet.
+- Notify the MOD of any product completely out of backstock.
+- Make sure someone is always watching over the container when running to backstock.
+
+Replenishment, weekly
+- Cross-reference sell-through and sales data with physical floor gaps.
+- Review the top 20 sellers by location and make sure the floor is fully stocked.
+- Prep and stage any pending transfers needed for high-volume items.

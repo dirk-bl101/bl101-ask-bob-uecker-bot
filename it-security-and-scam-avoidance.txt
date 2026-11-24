@@ -1,0 +1,12 @@
+SOURCE: Slack #sop-stores canvas "Retail Store IT Security & Scam Avoidance SOP" (v1.0; template fields left blank in the original).
+TOPIC: Logins and passwords, phishing and phone scams, personal devices, Wi-Fi, reporting incidents.
+
+Purpose: protect store operations, customer data and company systems from cybersecurity threats, phishing, scams and unauthorized access.
+1. Register and device security. Log in only with your assigned credentials. Always log out of registers, POS and workstations when not in use. Never leave a register or device unattended while logged in. Never share your password or login ID with anyone, including coworkers or management. Use strong passwords (at least 12 characters with letters, numbers and symbols), change them every 90 days or immediately if compromised, and do not write them down or leave them visible.
+2. Scam and phishing awareness. Watch for messages asking for login details, customer data or payment info; emails, texts or calls claiming to be corporate, vendors or IT asking for urgent action; and unfamiliar links or attachments. Only open emails from verified @bl101.com addresses. When in doubt: do not click, do not respond with sensitive info, and report it immediately to your Store Manager or the IT Security Team.
+Phone scams and fake corporate calls: scammers may pretend to be corporate, payment processors or tech support, ask for remote access, tell you to install software, push you to manipulate refunds, or use urgency and threats. Never process a transaction or install software based on a call alone. Verify the caller by hanging up and calling back using the official contact list. Tell your Store Manager right away.
+3. Personal devices and store equipment. Do not use personal phones, tablets or laptops to access store systems. Do not plug USB drives or devices into store computers or registers. Use only authorized software.
+4. Wi-Fi and internet. Use only approved networks for store operations. Never connect store systems to public or unsecured Wi-Fi. Limit internet use to work.
+5. Reporting. Report unusual system behavior, suspicious emails, calls or visitors, and unauthorized access or logins immediately to your Store Manager and the IT Security Team or Support Hotline.
+6. Physical security. Keep storage rooms with network or tech equipment locked. Only authorized team members may access network devices, routers or IT hardware.
+7. Accountability. Every team member protects company systems and customer information. Violations may result in disciplinary action.

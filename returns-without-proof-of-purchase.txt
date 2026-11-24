@@ -1,0 +1,22 @@
+SOURCE: Slack #sop-stores canvas "Returns Without Proof of Purchase (No Order Number)", posted 2026-06-30 by Kristin Keys. Applies to: Store Managers, ASMs, Key Holders.
+TOPIC: Returns when the customer has no order number, receipt or account information.
+
+Purpose: Provide guidance on handling return requests where the customer has no order number, receipt, or account information.
+
+Step 1: Verify the item is BL101 merchandise
+1. Attempt to scan the item's tag or barcode in Shopify POS.
+2. If the item does not scan, inspect the tag closely:
+   - BL101 tags include our branding and are distinct from other retailers.
+   - Items purchased at Dick's Sporting Goods or other retailers cannot be returned to BL101.
+3. If you are unsure whether the item is ours, photograph the tag and item and post in #retail-store-cx for confirmation before proceeding.
+
+Step 2: Look up the customer
+1. Search the customer's name, email address, or phone number in Shopify to locate their order history.
+2. If a matching order is found, proceed with the return using the located order number.
+
+Step 3: If no order can be located
+1. Do not process the return without authorization.
+2. Post in #retail-store-cx with: Store, Situation (customer requesting return, no order number, item was a gift), Item description (style, size, color), Tag scanned in POS (yes / no / did not scan), Customer contact (phone or email if provided), Photo of item and tag.
+3. CX or a manager will advise on whether to proceed with a store credit, exchange, or decline.
+
+Policy reminder: We are not able to process returns for items purchased at third-party retailers, even if the product is BL101 branded. When in doubt, escalate. Do not make an exception without manager approval.

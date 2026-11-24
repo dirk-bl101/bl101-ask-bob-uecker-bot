@@ -1,0 +1,10 @@
+SOURCE: Slack #sop-stores canvas "Submitting a Work Order".
+TOPIC: Reporting broken or needed-replacement items in the store (repairs and maintenance).
+
+Submitting a work order
+1. Initiate: if something breaks or needs replacing ASAP, reach out to your DM/DOR directly on Slack.
+2. Complete the required fields: Store Location; Class (choose "Repairs & Maintenance"); Description (a detailed description of the issue); Photos (attach images using your tablet). Be as specific as possible about what is needed and give required measurements or specifications.
+Tracking status
+1. Once the issue is communicated to the DM/DOR you will hear back about next steps.
+2. If a replacement item is ordered, an order number will be provided (if applicable).
+3. Follow the tracking/order number and tell the DM/DOR when the item arrives.

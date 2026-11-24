@@ -1,0 +1,14 @@
+SOURCE: Slack #sop-stores canvas "IT Best Practice". (The shared iPad login PIN was removed from this copy; ask your Store Manager for it.)
+TOPIC: Troubleshooting register offline, pin pad, scanner, phone line, music, printer, internet; IT escalation contacts.
+
+Troubleshooting common issues
+- Register offline: reset the tap and chip on Bluetooth first, before resetting via Shopify.
+- Pin pad: the iPad login PIN is shared by stores (ask your Store Manager). The Shopify PIN is store-created.
+- Scanner disconnects: press the power button and reset via Bluetooth.
+- Phone line down: submit an issue through the Level 10 portal on the Baseball Lifestyle 101 Hub and notify your DM.
+- Store music not playing: reconnect via Bluetooth.
+- Printer issues: make sure paper is loaded and clear any paper jams.
+- Internet down: use a hotspot or MiFi if possible. If the issue persists, call the Granite Wi-Fi provider the store is connected to.
+Escalation contacts
+- Non-emergency: contact Amanda (Amanda@BL101.com) and HR@BL101.com via Slack or email.
+- Emergency (customer impact): call 631-764-0162.

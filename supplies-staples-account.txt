@@ -1,0 +1,7 @@
+SOURCE: Slack #sop-stores canvas "Supplies / Staples Account". (No login details are included; use your store credentials.)
+TOPIC: Ordering store supplies from Staples.
+
+1. Log in to Staples with your store credentials.
+2. Use the BL101-approved store supply list (Google Sheets). Select it as your store list. If you need supplies outside the approved list, ask on Slack to confirm first.
+3. Add items to the cart and submit the order. Orders over $75 require a receipt and an explanation.
+4. Share a weekly Google Sheets log with your DM/DOR (Amanda@BL101.com).

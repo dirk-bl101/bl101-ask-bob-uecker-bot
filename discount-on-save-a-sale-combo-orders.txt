@@ -1,0 +1,21 @@
+SOURCE: Slack #sop-stores canvas "Discount Application on Save-a-Sale / In-Store Combo Orders", posted 2026-06-29 by Kristin Keys. Applies to: Store Managers, ASMs, Key Holders.
+TOPIC: A customer buys in store and places a Save-a-Sale (online) order in the same transaction and a discount could not be applied.
+
+Purpose: Provide a clear process when a customer makes both an in-store purchase and a Save-a-Sale (online) order in the same transaction and a discount (WELCOME20, GovX, Rewards, event-specific) cannot be applied at checkout.
+
+When this happens:
+- Customer uses WELCOME20, GovX, or a rewards discount in-store, and the same or equivalent discount cannot stack on a simultaneous Save-a-Sale order.
+- Customer is part of an event (for example Tanger 25%, Grand Park $30 off) and the discount does not apply to the Save-a-Sale portion.
+- Associate forgets to apply a discount code before completing the transaction.
+
+Steps:
+1. Complete the transaction as normal. Do not delay or cancel the sale.
+2. Collect: the Shopify order number; the discount code that should have been applied (WELCOME20, GovX 20%, Rewards %, event code); a brief reason (for example "Customer used WELCOME20 in-store; system did not apply to Save-a-Sale order"); a screenshot of the order if possible.
+3. Post in #retail-store-cx with: Store, Order #, Discount to apply (code, % or dollar amount), Reason, Screenshot.
+4. CX will process the refund and the customer will receive an email confirmation once complete.
+5. Do not promise the customer an immediate refund. Advise them to expect an email confirmation.
+
+Notes:
+- GovX is limited to once per day. If a customer has already used GovX on a Save-a-Sale order, document this and post to CX. CX will apply it manually.
+- For event-specific discounts (for example Tanger 25%, GP $30), clearly state the event name and the difference to be refunded.
+- After-hours requests will be reviewed the next business morning.

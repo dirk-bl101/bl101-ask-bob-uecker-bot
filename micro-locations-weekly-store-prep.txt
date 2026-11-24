@@ -1,0 +1,8 @@
+SOURCE: Slack #sop-stores canvas "Micro Locations Weekly Store Prep".
+TOPIC: Micro location hours, replenishment during games, off-site storage, transport, roles.
+
+Operating hours: Friday, Saturday, Sunday, 8:00 AM to 8:00 PM. Games last 2 hours; peak transitions happen every two hours when a game ends.
+Replenishment: during games (low traffic) restock high-demand, fast-moving items, and use the first hour of the next game to top off shelves. During peak transitions stay in the container to manage flow and engage customers promptly.
+Inventory: keep off-site storage organized with labeled cubbies. Staff inspect off-site storage at the start and end of each operating day. Prepare replenishment orders as needed, using Shopify to see what sold through.
+Transportation: golf cart on clear designated routes (someone must always be at the container, never leave it unattended; all staff trained on safe operation). Vehicles for bulk deliveries on full restock days (Thursday).
+Roles: replenishment staff monitor stock, replenish in off-peak periods and keep inventory logs; training covers stock rotation, safety and customer service. Management ensures schedules and inventory practices are followed and reviews inventory reports.

@@ -1,0 +1,14 @@
+SOURCE: Slack #sop-stores canvas "Store Organization" (v1.0; template fields blank).
+TOPIC: Salesfloor and backstock organization, recovery, replenishment triggers, merchandising standards, safety.
+
+Purpose: help store employees organize, maintain and replenish merchandise on the salesfloor and in backstock; monitor product location and inventory daily; guide associates on where and how to stock; flag when presentation standards are not met.
+Salesfloor:
+- Store recovery: scan aisles for misplaced, fallen or damaged items; return misplaced items to the right area; straighten shelves and clean aisles. Keep sizes with Youth in front/top and Adult in back/bottom.
+- Replenishment: identify low or empty shelves and fixtures. Keep as much of a collection on the floor as possible while staying shoppable. Trigger restocks based on sales volume, current inventory and sell-through (see Replenishment SOP).
+- Visual merchandising: group by collection except Clearance. Clearance is split by discount level (10%, 20%, 30%) then by size using size rings on every fixture. Weekly drops go at the front by Thursday morning; move product back as it ages. Check signage, price tags and promo displays daily.
+- Safety: keep 36 inches of ADA clearance on every customer pathway; never block egress. Store extra hardware, racks and fixtures in the backroom.
+Backstock:
+- Receiving: mark all incoming as received and cross-check quantities with expected deliveries (see Inventory Processing SOP).
+- Organization: shelves by collection, then product type, then size. Older merchandise can go in large boxes stacked safely; talk to your DM about overstock.
+- Safety: keep exit paths clear; do not stack boxes over 5 ft and use the T method; review ladder, box-cutter and general safety at orientation.
+- Damage and overstock: keep a designated damaged-items area; tell your DM when you have full boxes of damages.

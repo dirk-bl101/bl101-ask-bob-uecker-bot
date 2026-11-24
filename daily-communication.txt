@@ -1,0 +1,6 @@
+SOURCE: Slack #sop-stores canvas "Daily Communication".
+TOPIC: Daily Planner, opening/closing checklist in OpsCenter, and end-of-day store communications.
+
+Daily Planner: a tool for managing store operations, tracking sales goals and planning daily tasks. It is visible from your store location's email; set up one iPad with the store's BL101 email. Used by store managers and key holders. At the start of the day review the sales plan, tasks and store goals; assign responsibilities; track performance through the day; at the end note key wins, challenges and follow-ups.
+Opening and closing checklist: opening is completed before the store opens; closing after all closing duties are finished. The MOD (Manager on Duty) or an assigned key holder completes it. Submit it in OpsCenter before opening / closing. The District Manager should have access for review.
+Daily store communications: a structured message summarizing key store updates so leadership stays aligned. Send by end of day (or the next morning for overnight updates). Include: daily sales and traffic performance, notable team and customer highlights, operational challenges (if any), and any issues needing management support. Do NOT include write-ups or personal emails; all managers can see this. Send private reports from your personal BL101 email or directly in Slack.

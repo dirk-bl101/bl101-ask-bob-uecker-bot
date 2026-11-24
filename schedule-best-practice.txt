@@ -1,0 +1,14 @@
+SOURCE: Slack #sop-stores canvas "Schedule Best Practice". Mostly manager-level; teammates can use the Rippling and time-off steps.
+TOPIC: Rippling schedules, coverage rules, time off, availability, clocking in, store transfers.
+
+Platform: Rippling. Open the Rippling app, click the "My Schedule" icon to see all schedules. A printed copy of the schedule should always be on the breakroom/back room wall.
+Manager scheduling guidelines:
+- Weekdays: morning openers are one manager (key holder) and one associate (the manager may be alone in slow periods but must plan tasks accordingly). Afternoon/evening needs at least one key holder and one associate, more at peak. Closing shifts always need a key holder; if only one associate is scheduled they must be comfortable with closing procedures.
+- Weekends: minimum two people at all times with a key holder always in store. Add coverage at peak hours. Assign one associate to customer-facing tasks (sales, fitting rooms, register) and another to operations (stock, recovery, online orders).
+- Peak = evenings, weekends, lunch breaks, promotions/events (more people). Non-peak = mornings, midweek (lighter staffing, but cover tasks).
+- Openers prioritize store readiness (cleaning, restocking, daily sales plan review); mid-day focuses on customer service, sales and maintenance; closers prioritize recovery, closing procedures and next-day prep.
+- If an associate calls out, the manager decides whether coverage is needed or tasks can be adjusted.
+- Schedules are published by Wednesday 3pm the prior week; the SM signs off on the task in OpsCenter.
+- Staffing: always at least 1 manager/key holder and 1 associate. Weekdays 4 employees; weekends 5-6.
+Editing and availability: edit shifts in Rippling from a laptop/computer, not a phone. Time-off requests: Rippling > Time Off > Request Time Off > Submit. Tell a supervisor immediately about availability changes.
+Timecards and transfers: clock in and out using the POS system. Store transfers: Employee tab > Roster > select employee > Release Employee to Store.

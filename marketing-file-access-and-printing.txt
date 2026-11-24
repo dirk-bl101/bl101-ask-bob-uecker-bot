@@ -1,0 +1,14 @@
+SOURCE: Slack #sop-stores canvas "Marketing File Access & Printing via Google Drive". Applies to: Store Managers, ASMs, Key Holders.
+TOPIC: Finding and printing weekly marketing files (signage) from Google Drive.
+
+Purpose: managers and key holders can find and print weekly marketing files from Google Drive on their own, without relying on email.
+Steps:
+1. Open Google Drive on a desktop computer (not mobile).
+2. In the search bar, type the name of the current collection or holiday (for example "4th of July", "Trash Talk", "Back to School").
+3. In the results, find the folder or file labeled with the current year (for example "2026").
+4. Open the "Final Files" subfolder. It holds the current print-ready marketing assets.
+5. Download the file to your desktop.
+6. Send it to your store's designated printer.
+Important: do NOT print screenshots. Always download and print the original file from Google Drive for correct print quality and sizing.
+If you cannot find the file: search a different keyword (collection name, drop name or season); check both your personal BL email and the store email, since files may be shared to either; if still not found, post in the marketing channel (#retail-marketing) and tag the marketing team.
+Note: marketing files are no longer emailed each week. All stores are expected to get files directly from Google Drive.

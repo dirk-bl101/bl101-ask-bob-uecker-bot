@@ -1,0 +1,11 @@
+SOURCE: Slack #sop-stores canvas "HVAC / AC Issues - Reporting & Escalation". Applies to: Store Managers, ASMs, Key Holders. (An individual's after-hours phone number was removed from this copy; ask your Store Manager for the after-hours emergency contact.)
+TOPIC: Troubleshooting and escalating AC/HVAC problems; unauthorized vendors.
+
+Purpose: a consistent troubleshooting and escalation process for HVAC and air conditioning issues in store.
+Step 1, troubleshoot first. Before contacting Facilities:
+1. Check the breaker panel. Find breakers labeled "HVAC" or "AC" and confirm they are ON. If tripped, reset by flipping OFF then back ON.
+2. Check the thermostat. Confirm it is powered on, set to COOL, and showing a current temperature.
+3. Make sure exterior store doors are closed. Open doors while the AC runs will cause the unit to shut off or underperform (especially at stores with exterior entrances like Riverhead and Farmingdale).
+Step 2, escalate to Facilities. If that does not fix it, post in the facilities channel (#facilities) with: Store; Issue (AC not working / blowing hot air / too cold); Troubleshooting completed (breakers checked yes/no, thermostat checked yes/no); Current store temperature (approximate); Photo of the thermostat.
+Step 3, unauthorized vendors. If anyone enters claiming to do HVAC or facilities work you were not told about: ask for their name and company, contact the mall management office to confirm the work order, and post in #facilities to notify Facilities.
+After-hours emergencies: text the Facilities contact directly (get the number from your Store Manager).

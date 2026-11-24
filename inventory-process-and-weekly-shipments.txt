@@ -1,0 +1,12 @@
+SOURCE: Slack #sop-stores canvas "Inventory Process / Shipping Products from warehouse".
+TOPIC: Weekly warehouse shipments, inventory sheets, request sheets, processing steps.
+
+Inventory: all inventory is kept on Google Sheets with every location built the same way. Each sheet is organized alphabetically by product: T-Shirts, Hoodies, Pants/Shorts, Hats, Miscellaneous. All sizes, quantities and products must be listed and adjusted weekly based on in-store sales and weekly restocks.
+Shipment schedule: delivered weekly, arriving by Wednesday. Process every shipment the day it arrives. Shipments must be on the sales floor by Thursday morning; new drops must be out before opening Thursday for Thursday drops.
+Request sheets: built during the week in store based on store needs. Submit Sunday night or Monday morning on Google Sheets to the inventory contacts (Amanda and Nick).
+Processing steps:
+- Backroom preparation: make sure every product home is organized and holds the right product; backstock has sections for products (for example all v2s together, all v3s together, all ice cream products together); clear space for incoming shipments.
+- Check-in: confirm the delivery count matches the invoice.
+- Sorting: restock the sales floor with what is needed and put the extra product in its proper backstock home.
+- Fold/hang: everything folded properly and all clothing tagged.
+- Merchandise placement: process items on the sales floor while still serving customers.
