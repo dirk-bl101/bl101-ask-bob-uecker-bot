@@ -36,6 +36,32 @@ class Manuals(unittest.TestCase):
                 self.assertEqual((name, m), ("bfcm-cx-info-sheet.txt", "631-649-7133"))
 
 
+class Finding(unittest.TestCase):
+    def _make(self, layout):
+        import tempfile
+        d = tempfile.mkdtemp()
+        for rel in layout:
+            p = os.path.join(d, rel)
+            os.makedirs(os.path.dirname(p), exist_ok=True)
+            open(p, "w").write("x " + rel)
+        return d
+
+    def test_finds_files_at_top_level(self):
+        d = self._make(["store-operations.txt"])
+        self.assertIn("store-operations.txt", core.load_manuals(TOPICS, d))
+
+    def test_finds_files_nested_one_level_too_deep(self):
+        d = self._make(["bl101-ask-bob-uecker-bot/manuals/store-operations.txt"])
+        self.assertIn("store-operations.txt", core.load_manuals(TOPICS, d))
+
+    def test_prefers_manuals_folder(self):
+        d = self._make(["store-operations.txt", "manuals/store-operations.txt"])
+        self.assertEqual(core.load_manuals(TOPICS, d)["store-operations.txt"], "x manuals/store-operations.txt")
+
+    def test_nothing_found_is_empty_not_a_crash(self):
+        self.assertEqual(core.load_manuals(TOPICS, self._make(["readme.md"])), {})
+
+
 class Routing(unittest.TestCase):
     valid = [t["id"] for t in TOPICS["topics"]]
 
@@ -62,6 +88,11 @@ class Routing(unittest.TestCase):
         self.assertEqual(core.keyword_topics("Will we price match a customer?", TOPICS, DOCS)[0], "bfcm-customer-rules")
         self.assertEqual(core.keyword_topics("what do I do with the Santa mailbox", TOPICS, DOCS)[0], "letters-to-santa")
         self.assertEqual(core.keyword_topics("zzz qqq", TOPICS, DOCS), [])
+
+    def test_redo_question_routes(self):
+        self.assertEqual(core.keyword_topics("how do I use redo", TOPICS, DOCS)[0], "redo-returns-exchanges")
+        self.assertEqual(core.keyword_topics("how do I add a retail bag in POS", TOPICS, DOCS)[0], "pos-how-to")
+        self.assertEqual(core.keyword_topics("customer wants to save a sale on a size we are out of", TOPICS, DOCS)[0], "save-the-sale")
 
     def test_files_for_dedupes(self):
         self.assertEqual(core.files_for(["signing-youth", "signing-youth"], TOPICS), ["signing-cheat-sheet-intro-and-youth.txt"])

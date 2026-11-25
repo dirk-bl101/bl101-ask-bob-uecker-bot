@@ -1,0 +1,61 @@
+SOURCE: Save A Sale SOP, text file supplied by Dirk Armstrong. Current version; replaces the earlier "Save the Sale - Endless Aisle" docx where they differ.
+TOPIC: Save A Sale: eligibility, warehouse check, mystery items, new collections, Slack posting.
+
+SAVE A SALE SOP
+Purpose
+Save A Sale is an opportunity to help customers purchase eligible items that are unavailable in store by shipping the item directly to the customer.
+Please follow the guidelines below to ensure Save A Sale is handled consistently across the board.
+1. SAVE A SALE PROCESS
+For Save A Sale, items can be shipped directly to the customer but cannot be done through Redo and must be done separately as a Save A Sale.
+Before processing a Save A Sale:
+1. Confirm the item is eligible for Save A Sale.
+2. Confirm the item has already dropped on Ecomm.
+3. Confirm the item is available at the BL101 Warehouse location.
+4. Verify the correct SKU, size, color, and quantity.
+5. If there is at least 1 unit available at the BL101 Warehouse location, you should be able to ship the item.
+6. Complete the Save A Sale separately from Redo.
+7. Post the Save A Sale in the Save A Sale Slack channel for visibility.
+Warehouse Availability
+You MUST check the BL101 Warehouse location before processing a Save A Sale.
+If the item shows 1 or more units available, you should be able to ship the item.
+If there are any issues with the item, inventory, or fulfillment after the Save A Sale is submitted, CX will handle the issue with the customer.
+Our responsibility in store is to make sure we are checking warehouse availability correctly and submitting the Save A Sale accurately. 
+Slack Visibility
+Please remember to post every Save A Sale in the Save A Sale Slack channel.
+This is important for visibility and allows the team to track Save A Sales and address any issues that may come up.
+________________
+2. MYSTERY ITEMS
+MYSTERY ITEMS CANNOT BE PROCESSED IN STORE FOR SAVE A SALE.
+Mystery Items are already deeply discounted and are not eligible for free shipping.
+In the event that Mystery Items are ever opened up and allowed for Save A Sale, codes and/or loyalty cannot be added, as it further discounts already deeply discounted items.
+This is to keep this consistent across the board, as Ecomm does not allow for loyalty/promo codes on sale items either. 
+________________
+3. NEW COLLECTIONS
+Save A Sale can also NOT be done for new collections until they have dropped on Ecomm.
+If a new collection has not yet dropped on Ecomm, do not process a Save A Sale for that item.
+Once the collection has officially dropped on Ecomm, follow the standard Save A Sale process and confirm the item is available at the BL101 Warehouse location.
+________________
+4. QUICK REFERENCE
+YES: SAVE A SALE
+* Item is eligible for Save A Sale
+* Item has already dropped on Ecomm
+* Item is available at the BL101 Warehouse location
+* At least 1 unit is showing available
+* Save A Sale is completed separately from Redo
+* Save A Sale is posted in the Save A Sale Slack channel
+NO: CANNOT BE SAVE A SALE
+* Mystery Items
+* New collections that have NOT yet dropped on Ecomm
+* Items showing 0 available at the BL101 Warehouse location
+IMPORTANT
+Save A Sale = separate process, NOT Redo.
+1+ units available at BL101 Warehouse = you should be able to ship.
+Mystery Items = NO Save A Sale.
+New collection before Ecomm drop = NO Save A Sale.
+Always post the Save A Sale in Slack for visibility.
+If you are unsure whether an item qualifies, ask a manager before processing.
+________________
+5. CUSTOMER EXPERIENCE
+Save A Sale should be used as an opportunity to save the sale and help the customer get the product they want.
+When an eligible item is unavailable in store, be proactive and offer the customer the option to have the item shipped directly to them.
+Please share these guidelines with all associates to ensure Save A Sale is being handled consistently across the board.

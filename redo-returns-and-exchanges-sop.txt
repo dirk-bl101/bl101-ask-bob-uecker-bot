@@ -1,64 +1,67 @@
-SOURCE: Slack #sop-stores attachment "Redo Returns & Exchanges SOP" (PDF), canvas posted 2026-08-18 by Kristin Keys.
-TOPIC: Completing customer returns and exchanges with the Redo tile in POS; return methods; save a sale exchange rule.
+SOURCE: Slack #sop-stores "Redo Returns & Exchanges SOP" (updated version, text file supplied by Dirk Armstrong). Supersedes the earlier PDF version.
+TOPIC: Required process for returns and exchanges in the Redo tile in POS.
 
-Redo Returns & Exchanges SOP
+REDO RETURNS & EXCHANGES SOP
 Purpose
-This SOP outlines the process for completing customer returns and exchanges using the Redo
-system in retail stores.
-
-Step 1: Download the Redo Tile
-   - Ensure the Redo tile/app is downloaded and available within the POS system before
-      beginning any return or exchange.
-   - Confirm the tile is functioning properly prior to assisting customers.
-Step 2: Locate the Customer Order
- - Begin the return or exchange process by searching for the customer’s:
-         - Order Number
-         - Account Information
-         - Phone Number or Email (if applicable)
- - Once the customer’s order is located, click the Redo tab.
- - The Redo tab is located directly underneath where the previous exchange/return option
-    was located.
-
+This SOP outlines the required process for completing customer returns and exchanges using the Redo system in all retail stores. The goal is to ensure every return and exchange is processed consistently, accurately, and in accordance with company procedures.
+IMPORTANT POLICY: REDO IS REQUIRED FOR ALL RETURNS/EXCHANGES
+EVERY return or exchange must be processed through Redo. This is mandatory for all stores and applies to every return or exchange when the customer has a receipt or the original order can be located.
+The only exception is an unverified return when the customer does not have a receipt. These transactions must be processed as unverified returns according to the approved company procedure.
+Do not process a verified return or exchange outside of Redo.
+Step 1: Confirm Redo Is Available
+* Ensure the Redo tile/app is downloaded and available in the POS system.
+* Confirm that the tile is functioning properly before beginning the transaction.
+* If Redo is unavailable or not functioning, follow the appropriate escalation procedure rather than processing the return or exchange outside of Redo.
+Step 2: Locate the Customer’s Original Order
+Search for the customer’s original order using the available information:
+* Order number
+* Customer account information
+* Phone number
+* Email address, if applicable
+Once the original order is located, click the Redo tab, located directly underneath the previous return/exchange option in the POS.
+If the customer does not have a receipt, follow the approved unverified return procedure. Do not process the transaction as a standard verified return outside of Redo.
+________________
 Step 3: Select Return Details
- - After opening the Redo tab:
-          - Select the reason for the return/exchange.
-          - Choose the return method requested by the customer.
- - Available return methods may include:
-          - Exchange
-          - Store Credit
-          - Refund to Original Payment Method
- - Additional notes or comments may be entered in the notes section at the bottom if
-    needed for documentation purposes.
-
+After opening the Redo tab:
+1. Select the appropriate reason for the return or exchange.
+2. Choose the return method requested by the customer.
+3. Add notes or comments in the notes section at the bottom when additional documentation is necessary.
+Available return methods may include:
+* Exchange
+* Store Credit
+* Refund to Original Payment Method
+Confirm that the selected return method matches the customer's request before continuing.
 Step 4: Continue to Return Options
- - After completing the return details, click Continue.
- - You will then see the following options:
-          - Shop Now (Exchange)
-          - Store Credit (Gift Card)
-          - Refund to Original Payment Method
-
+After completing the return details, click Continue.
+Review the available options:
+   * Shop Now: Process an exchange.
+   * Store Credit: Issue a gift card.
+   * Refund to Original Payment Method: Return the funds to the original payment method, when eligible.
+Select the correct option based on the customer's request and the applicable return requirements.
+   *   
 Step 5: Completing an Exchange
- - If processing an exchange:
-           - Select Shop Now.
-           - Search for products near the bottom of the screen or scan items directly into the
-            transaction.
-           - Add the new exchange item(s) to the cart.
-           - For a save a sale, you CANNOT combine in store items with products that are
-            being shipped.
- - Redo will automatically:
-           - Apply and match eligible discounts used on the original purchase.
-           - Process the exchange adjustment automatically.
- - Once completed:
-           - The transaction will return to the cart like a normal purchase.
-           - Most even exchanges will finalize as a $0 transaction.
-        IMPORTANT REMINDERS
-
-   -   Always confirm the customer’s selected return method before finalizing.
-   -   Ensure all exchanged items are scanned correctly.
-   -   Add detailed notes whenever additional clarification may be needed.
-   -   Verify the final transaction total before completing the process.
-
+When processing an exchange:
+   1. Select Shop Now.
+   2. If it is the same item AND same SKU (just a different size) you can do a variant exchange which will be the exact same item but in a different size.
+   3. Search for the replacement product near the bottom of the screen or scan the item directly into the transaction.
+   4. Verify that the replacement item, size, color, and quantity are correct.
+   5. Allow Redo to apply eligible discounts from the original purchase and calculate the exchange adjustment automatically.
+   6. Review the completed transaction before finalizing.
+Once completed, the transaction will return to the cart like a normal purchase. Most even exchanges will finalize as a $0 transaction.
+Do not manually override Redo's pricing or adjustments unless specifically authorized.
+Step 6: Final Verification
+Before completing any return or exchange:
+   * Confirm the correct customer order was selected.
+   * Verify that the correct items and quantities are being returned or exchanged.
+   * Confirm the customer's selected return method.
+   * Review the final transaction total and any applicable adjustments.
+   * Add notes when additional clarification is needed.
+   * Ensure the transaction is completed through Redo when required.
+Important Reminders
+   * All returns and exchanges must go through Redo unless the customer does not have a receipt and the transaction must be processed as an unverified return.
+   * Do not bypass Redo for convenience or process verified returns and exchanges through a separate, standard POS workflow.
+   * If the original order cannot be located, verify the available customer and purchase information before determining the appropriate next step.
+   * If Redo is unavailable, an issue arises, or you are unsure how to proceed, escalate the issue to the appropriate manager or support team.
+   * Follow all current company return policies and eligibility requirements.
 Goal
-Provide a smooth, efficient, and consistent return/exchange experience for all customers while
-properly utilizing the Redo system.
-
+Provide a smooth, efficient, and consistent customer experience while ensuring all verified returns and exchanges are processed through Redo and all receipt-less returns are handled through the approved unverified return procedure.
