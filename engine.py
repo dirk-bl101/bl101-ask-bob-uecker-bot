@@ -40,18 +40,29 @@ def extract_text(response):
 
 def route(system, messages):
     """Fast model call used to pick topics. Returns raw text."""
-    r = client().messages.create(
+    r = _create(
         model=ROUTER_MODEL, max_tokens=200, system=system, messages=messages
     )
     return extract_text(r)
 
 
+def _create(**kw):
+    """Call the API with extended thinking switched off (hidden thinking tokens count
+    against max_tokens and can cut an answer off mid-sentence). If this API version
+    rejects the parameter, retry without it."""
+    try:
+        return client().messages.create(thinking={"type": "disabled"}, **kw)
+    except anthropic.BadRequestError:
+        log.warning("thinking parameter rejected, retrying without it")
+        return client().messages.create(**kw)
+
+
 def answer(system_blocks, messages):
     """Answer model call. system_blocks may carry cache_control on the documents."""
     t0 = time.time()
-    r = client().messages.create(
-        model=ANSWER_MODEL, max_tokens=1500, system=system_blocks, messages=messages
-    )
-    if getattr(r, "stop_reason", None) == "max_tokens":
-        log.warning("answer hit max_tokens")
+    r = _create(model=ANSWER_MODEL, max_tokens=1500, system=system_blocks, messages=messages)
+    u = getattr(r, "usage", None)
+    log.info("answer stop_reason=%s output_tokens=%s cache_read=%s",
+             getattr(r, "stop_reason", None), getattr(u, "output_tokens", None),
+             getattr(u, "cache_read_input_tokens", None))
     return extract_text(r), round(time.time() - t0, 2)
