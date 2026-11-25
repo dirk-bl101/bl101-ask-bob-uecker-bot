@@ -1,0 +1,42 @@
+SOURCE: "Retail Pricing and Promotions Policy" SOP, v1.0, author Amanda Heglund (Google Doc / file supplied by Dirk Armstrong).
+TOPIC: Pricing, price tickets, signage, discount rules, loyalty (Okendo) discounts, WELCOME20, military/first responder (GOVX), employee discounts, prohibited activities, escalation.
+
+Purpose: consistent, accurate pricing, promotions and discount processing in all stores. Applies to all associates, key holders, assistant managers, store managers and anyone processing Shopify POS transactions. Unauthorized discounting, misuse of promo codes or not following procedure can lead to corrective action up to and including termination.
+
+Pricing and promo responsibilities (store leadership): every item on the sales floor has a price ticket. Some merchandise arrives priced; physically price anything received without a price before it goes on the floor. Keep price labels, signage and promo materials accurate and current. Remove expired promo signage immediately when a promotion ends. Promo signage must match the right items, collections or categories. Fix pricing discrepancies immediately.
+- Pricing or promo error in the store: tell store management immediately; correct it before more transactions whenever possible.
+- Pricing or promo error in Shopify: tell store management immediately; store management reaches out to the Director of Retail and Customer Service right away.
+
+General discount rules:
+- All promotional discounts must use an approved discount code through Shopify POS.
+- Manual discounting is prohibited unless company leadership specifically authorizes it.
+- Loyalty accounts must be linked to all eligible transactions through Okendo.
+- Loyalty discounts are processed only through Okendo-generated rewards or offers.
+- Associates may not create, alter or reuse unauthorized discount codes.
+- Report system errors or discount discrepancies to management immediately.
+
+Applying a loyalty discount (Okendo):
+1. Begin the transaction in Shopify POS.
+2. Ask for the phone number or email on the customer's loyalty account. (When setting up loyalty accounts, record BOTH email and phone number.)
+3. Search for and connect the customer profile through Okendo.
+4. Check the available loyalty rewards or offers.
+5. Select and apply the approved reward directly through the Okendo integration.
+6. Check that the discount shows correctly in Shopify POS.
+7. Review the final price with the customer before payment.
+8. Complete the transaction.
+Notes: never manually recreate a loyalty discount if the system is down. For account problems, contact Customer Service directly or through Leadership Chats in Slack. Associates may not override loyalty requirements. If a customer has more than one loyalty account, send them to Customer Service for review.
+
+WELCOME20: a 20% discount for NEW loyalty customers on their first eligible purchase. It cannot be combined with any other offer or discount and is not valid on gift cards. WELCOME20 and other one-time-use offers work for the first eligible transaction only; repeat use is not allowed. Customers with multiple email addresses on their loyalty account go to Customer Service for review.
+Steps: begin the transaction; connect the loyalty account through Okendo; confirm the customer is eligible; enter the approved code in Shopify POS; confirm it applied. If the code does not work, check spelling and expiration date and check account eligibility; do not manually override the discount. If the customer has multiple accounts or emails, politely explain Customer Service must help with consolidation or validation. Complete the sale once eligibility is confirmed.
+
+First responder and military discount: 20% off for ALL military, police, fire, EMS and medical personnel with valid ID, only through the unique customer-specific code issued by GOVX verification.
+Steps: begin the transaction; ask for the GOVX-issued code; enter it exactly as provided; confirm it applies; review the adjusted total with the customer; complete the transaction.
+If the customer has no GOVX code: explain verification must be done through GOVX; point them to the GOVX QR code signage that should be displayed at the cashwrap; they must use the email address on their BL Loyalty account when verifying through GOVX, and will then get a unique code for the 20% discount. Do not manually honor the discount without a valid code.
+
+Employee discount: employee purchases must use a valid BL-issued Employee Discount Code; employee loyalty accounts should be linked to their BL email (if applicable) and include their code; follow the Employee Discount Policy and company purchasing guidelines.
+Steps: begin the transaction; verify the employee has a valid BL-issued code; confirm they meet the eligibility requirements; apply the code in Shopify POS; check the discount amount; complete the transaction with standard tender procedures. Employees may not share codes; discounts may not be applied for non-eligible people; managers monitor employee purchase compliance.
+
+Strictly prohibited: manual unauthorized discounts; sharing employee or customer discount codes; reusing one-time promo codes outside approved guidelines; applying discounts without proper customer verification; getting around loyalty or GOVX validation; changing prices without authorization; leaving expired promo signage up.
+
+Report immediately: pricing discrepancies, incorrect promo signage, Shopify or Okendo system issues, suspected discount misuse, transaction irregularities. Management must investigate right away, fix operational issues, escalate significant concerns to the Director of Retail and Customer Service, and retrain associates when needed.
+Accountability: failure to follow this policy can lead to coaching, written corrective action, a final warning or termination. Anyone issuing unauthorized discounts or knowingly breaking the policy will be held accountable.

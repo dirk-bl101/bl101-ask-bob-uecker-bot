@@ -1,0 +1,14 @@
+SOURCE: "iPad / POS Troubleshooting Guide" (IT Best Practice SOP, v1.0; Google Doc / file supplied by Dirk Armstrong). Newer than the Slack canvas "IT Best Practice". The shared iPad login PIN was removed from this copy; ask your Store Manager for it.
+TOPIC: Fixing register offline, pin pad, scanner, store music, printer and internet problems; who to contact.
+
+Register offline:
+1. Disconnect the device from Shopify POS.
+2. In the iPad Bluetooth settings, disconnect the device.
+3. Go back into Shopify POS and reconnect the device. This fixes it in most cases.
+If it persists: find the small reset button on the back of the device, reset it, and reconnect through Shopify POS again.
+Pin pad issues: reset the Tap & Chip reader through Bluetooth before resetting it directly in Shopify. The iPad login PIN is shared (ask your Store Manager). Shopify PINs are store-created and can vary by location.
+Scanner disconnects: press the scanner power button; disconnect and reconnect the scanner in Bluetooth settings; reconnect it within Shopify POS if needed.
+Store music not playing: reconnect the music device/system through Bluetooth; make sure the store Wi-Fi is connected properly for Sonos.
+Printer issues: make sure receipt paper is loaded correctly; clear any paper jams; disconnect and reconnect the printer through Bluetooth if needed.
+Internet down: use a mobile hotspot if available; use the store MiFi device if available; if it persists, contact the Granite Wi-Fi provider for the store location.
+Escalation (non-emergency): contact via Slack or email Amanda@BL101.com and HumanResources@BL101.com.

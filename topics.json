@@ -383,6 +383,62 @@
         "shopify website",
         "orders page"
       ]
+    },
+    {
+      "id": "pricing-promotions-discounts",
+      "title": "Retail pricing and promotions policy: discount rules, loyalty (Okendo) discounts, WELCOME20, military/first responder GOVX, employee discount, price tickets and signage, prohibited activities",
+      "files": [
+        "retail-pricing-and-promotions-policy.txt"
+      ],
+      "keywords": [
+        "discount",
+        "welcome20",
+        "govx",
+        "military",
+        "first responder",
+        "police",
+        "fire",
+        "ems",
+        "employee discount",
+        "manual discount",
+        "price ticket",
+        "pricing",
+        "price tag",
+        "expired signage",
+        "okendo",
+        "loyalty discount",
+        "one time",
+        "promo code",
+        "override"
+      ]
+    },
+    {
+      "id": "pos-troubleshooting",
+      "title": "iPad / POS troubleshooting: register offline, pin pad, scanner, printer, music, internet down, who to contact",
+      "files": [
+        "ipad-pos-troubleshooting-guide.txt"
+      ],
+      "keywords": [
+        "offline",
+        "register offline",
+        "pin pad",
+        "tap and chip",
+        "card reader",
+        "scanner",
+        "printer",
+        "receipt paper",
+        "music",
+        "sonos",
+        "internet down",
+        "wifi",
+        "wi-fi",
+        "hotspot",
+        "mifi",
+        "granite",
+        "ipad",
+        "bluetooth",
+        "reset"
+      ]
     }
   ],
   "max_topics_per_question": 2
