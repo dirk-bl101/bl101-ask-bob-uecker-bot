@@ -6,6 +6,9 @@ instead of assuming the first block is text. This is the fix for the
 """
 import os
 import time
+import logging
+
+log = logging.getLogger("ask-bob-uecker")
 
 import anthropic
 
@@ -47,6 +50,8 @@ def answer(system_blocks, messages):
     """Answer model call. system_blocks may carry cache_control on the documents."""
     t0 = time.time()
     r = client().messages.create(
-        model=ANSWER_MODEL, max_tokens=700, system=system_blocks, messages=messages
+        model=ANSWER_MODEL, max_tokens=1500, system=system_blocks, messages=messages
     )
+    if getattr(r, "stop_reason", None) == "max_tokens":
+        log.warning("answer hit max_tokens")
     return extract_text(r), round(time.time() - t0, 2)
