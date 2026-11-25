@@ -1,0 +1,24 @@
+SOURCE: "Rewards Program Quick Guide" SOP, v1.0 (Google Doc / file supplied by Dirk Armstrong). Newer than the Slack canvas "Baseball Lifestyle 101 Rewards Program Overview"; adds the SMS/email enrollment step.
+TOPIC: Rewards / loyalty program in Shopify POS (Okendo Loyalty): enrolling customers, viewing profiles, redeeming and applying coupons.
+
+The Baseball Lifestyle Rewards Program rewards our most passionate fans for shopping online and in store. It is powered by Okendo Loyalty and built into Shopify POS.
+Customer enrollment:
+1. Start a cart in POS and tap "Add customer".
+2. Search for or create an account (include the email!).
+3. Tap the Okendo Loyalty tile and hand the device to the customer.
+4. The customer accepts the terms and joins. They are now enrolled.
+5. Make sure they are enrolled in SMS and email marketing.
+Viewing a loyalty profile:
+1. Tap "Add customer" and select a member.
+2. Tap the Okendo Loyalty tile to see email, points, VIP tier and rewards.
+Redeeming rewards:
+1. The Redeem tab shows eligible coupons only.
+2. It filters by points, cart, tier or subscription-only rules.
+Applying coupons:
+1. Go to the "Coupons" tab in the loyalty profile.
+2. Select and apply previously redeemed coupons to the cart.
+FAQs and best practices:
+- Combine discount plus product only (GWP).
+- Loyalty points behave the same for refunds and returns.
+- No separate POS coupons are needed.
+- Staff: always verify emails, promote signups, and know the rewards and VIP tiers.

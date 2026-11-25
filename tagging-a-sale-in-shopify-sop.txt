@@ -1,0 +1,10 @@
+SOURCE: "SOP: Tagging a Sale in Shopify" (Google Doc / file supplied by Dirk Armstrong).
+TOPIC: Adding a tag (for example FBVIP) to a Shopify order in the website admin for tracking and reporting.
+
+Purpose: make sure all qualifying sales are tagged in Shopify for tracking and reporting.
+Step 1, log in (website only): open a web browser (Chrome, Edge, etc.), go to the Shopify website login page, and log in with your store email credentials. Do NOT use the Shopify app.
+Step 2, go to Orders: click Orders in the left-hand menu.
+Step 3, find the order: use the search bar at the top of the Orders page, type the order number, press Enter, and click the correct order.
+Step 4, add the tag: scroll down the order page; on the right-hand side find the Tags section; click into the Tags field; type the code; click Add.
+Step 5, confirm: make sure FBVIP appears under Tags before you leave the order. Nothing more is needed once the tag is added.
+Important notes: always do this in the Shopify website in a browser, not the app. Double-check the order number before adding the tag. Enter tags exactly as given: all caps, no spaces.

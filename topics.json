@@ -348,6 +348,41 @@
         "cart",
         "staff account"
       ]
+    },
+    {
+      "id": "rewards-loyalty",
+      "title": "Rewards / loyalty program (Okendo) in Shopify POS: enrolling customers, profiles, redeeming, coupons",
+      "files": [
+        "rewards-program-quick-guide.txt"
+      ],
+      "keywords": [
+        "rewards",
+        "loyalty",
+        "okendo",
+        "points",
+        "vip tier",
+        "enroll",
+        "sign up",
+        "coupon",
+        "redeem",
+        "sms",
+        "email marketing"
+      ]
+    },
+    {
+      "id": "shopify-tagging",
+      "title": "Tagging a sale in Shopify (FBVIP tag) using the website, not the app",
+      "files": [
+        "tagging-a-sale-in-shopify-sop.txt"
+      ],
+      "keywords": [
+        "tag",
+        "tagging",
+        "fbvip",
+        "tag an order",
+        "shopify website",
+        "orders page"
+      ]
     }
   ],
   "max_topics_per_question": 2
