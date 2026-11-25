@@ -1,0 +1,112 @@
+﻿BL101 Shopify POS Training Guide
+New Associate Step-by-Step
+STEP 1: Create Your POS Account
+Before using the POS, every associate must create their own account and PIN.
+1. Open the Shopify POS app.
+2. Select Staff.
+3. Select Add.
+4. Enter your:
+   * First Name
+   * Last Name
+   * Phone Number
+   * Email
+   * PIN
+5. Your PIN must be 4–6 digits.
+6. This PIN will be used to log into Shopify POS.
+Important: Never share your personal POS PIN with another associate.
+________________
+
+
+STEP 2: Add Products to the Cart
+If the item has a tag:
+1. Scan the item's barcode/tag using the POS scanner.
+2. The product will automatically populate in the cart.
+3. Confirm the item and quantity are correct.
+If the item does NOT have a tag:
+1. Use the search function on the POS.
+2. Type in the product name or identifying information.
+3. Find the correct product.
+4. Add it to the cart.
+5. Double-check that you selected the correct item.
+Always make sure the product, size, color, and quantity are correct before completing the transaction.
+________________
+
+
+STEP 3: Add a Discount Code
+Discount codes are entered through the POS Home Screen.
+1. From the Shopify POS Home Screen, select the three dots (•••) in the top right corner.
+2. Select Apply Discount.
+3. Enter the discount code required for the transaction.
+4. Confirm that the correct discount has been applied before completing the sale.
+Important
+Most discount codes cannot be used more than once.
+If a code has already been used and you attempt to use it again, you will receive an error message:
+“Code has been used.”
+Do not try to bypass the system or reuse a code that has already been used.
+________________
+
+
+STEP 4: Save-A-Sale Discount
+If a customer uses WELCOME20 or another 20% discount code and then wants to complete a Save-A-Sale or separate purchase afterward:
+Use:
+SAS20%
+This is used to match the customer's original 20% discount.
+Important: SAS20% should only be used when appropriate to match the original qualifying discount. Do not abuse or use this code for unrelated purchases.
+________________
+
+
+STEP 5: Retail Bags
+Every transaction where a BL101 Retail Bag is handed to the customer MUST have the bag added to the POS.
+1. Look at the POS tiles.
+2. Select Retail Bag.
+3. Choose the correct size:
+   * Small
+   * Large
+4. Make sure the bag is included in the transaction.
+If you hand out a retail bag, it must be accounted for in POS.
+________________
+
+
+STEP 6: Create a Gift Card
+Gift cards can be created as either a Digital Gift Card or a Physical Gift Card.
+To Start:
+1. At the top of the POS, search “Gift Card.”
+2. Select BL101 E-Gift Card.
+3. Choose between:
+   * Digital Gift Card
+   * Physical Gift Card
+Digital Gift Card
+1. Select Digital Gift Card.
+2. Choose the amount needed.
+3. Enter the customer's email address.
+4. Confirm the email is correct.
+5. The gift card will be sent directly to the customer's email.
+Always double-check the email address before completing the transaction.
+Physical Gift Card
+1. Select Physical Gift Card.
+2. Choose the amount needed.
+3. Use the iPad camera to scan the barcode on the back of the physical gift card.
+4. The scan will populate the gift card information.
+5. Confirm the correct amount and gift card information before completing the sale.
+Important: Make sure the physical gift card is properly scanned and attached to the transaction before completing the sale.
+________________
+
+
+STEP 7: Gifts With Purchase (GWP)
+If a customer qualifies for a Gift With Purchase:
+1. Add the qualifying purchase to the cart.
+2. Add the appropriate GWP item to the cart.
+3. The GWP should ring up as $0.
+4. Confirm the GWP is showing at $0 before completing the transaction.
+Do not manually discount the GWP. Add the designated GWP item to the cart and allow POS to process it correctly.
+________________
+
+
+POS Golden Rules
+Scan it when you can. Search it when you can't.
+Double-check every item before payment.
+Apply discounts correctly.
+Account for every retail bag.
+Add qualifying GWPs to the cart at $0.
+Double-check gift card information before completing the transaction.
+Never share your POS PIN.
